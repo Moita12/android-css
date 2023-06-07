@@ -5,7 +5,11 @@
 
 div {margin: o; padding: 0;}
 div div {position:relative;}
-
+body{
+	background-image: url(https://www.androidbasement.com/images/posts/e5780398e55ff51051c733b53f88704e-0.jpg);
+	background-attachment:initial;
+	background-size:200px;
+}
 .android{
 	height: 504px; width: 334px;
 	margin-left:100px;
